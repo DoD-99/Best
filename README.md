@@ -1,4 +1,4 @@
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-DoD-99-dimgray?style=flat-square&logo=github)](https://github.com/DoD-99)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mahir-Tahsan?style=flat-square&logo=facebook)](https://www.facebook.com/toxic.mahir)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-Mahi?style=flat-square&logo=whatsapp)](https://wa.me/+8801314629049)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-dimgray?style=flat-square&logo=github)](https://github.com/DoD-99)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mahir-Tahsan?style=flat-square&logo=facebook)](https://www.facebook.com/toxic.mahir)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-Mahi?style=flat-square&logo=whatsapp)](https://wa.me/+8801314629049)
 
 
 
